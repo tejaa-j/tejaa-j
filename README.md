@@ -1,14 +1,12 @@
 
-<h2> Sup I'm Teja👋</h2>
+<h2> Welcome👋</h2>
 
 <br/>
 <h3> 👨🏻‍💻 &nbsp;About </h3>
 
-- 🤔 &nbsp; Building cool software mostly based on mobile.
-- 🎓 &nbsp; Studying CS at KL-Hyderabad.
-- 💼 &nbsp; Web Developer, UI/UX and Graphic Designer.
-- 🌱 &nbsp; Trynna integrate AI into my apps.
-- ✍️ &nbsp; Chasin da bag.
+- 👋 Hi, I’m Teja
+- 👀 I’m interested in AI-ML
+- 🌱 I’m currently learning Python ML
 
 <br/>
 
